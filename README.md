@@ -4,6 +4,11 @@ Repository to project 3 in the BERN01 computational science course, HT23 at Lund
 
 # TODO
 - Questions 3,4: Theo, Anna
+  - Recall and precision do not work as intended in 4
+  - It would be nice to have a function that given a region (in the format of region_test / region_train) plots statistics for this region, a map of this region (That one is for Carmen), the distribution of biomes in this region, perhaps a climate graph, etc. Essentially a localised version of the statistical evaluation done in part 2. A lot of the nice plots in part 2 could then be produced with a call of this function with the whole world as the region. This function could then be used in parts 3 and 4 to understand our testing and training regions better.
+  - Does the section 'Plot Impurity-based vs. Permutation importance' have performance issues?
+  - Automatic plot and table generation: export plots and tables automatically to '../plots/experimentName_plotName.pdf' and '../plots/experimentName_tableName.tex'
+  - part 4.6: what do they mean?
 - implementing Plotting of world map: Carmen
 - reading in data: everybody
 - plotting and statistical evaluation of the data: everybody
