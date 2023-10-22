@@ -9,10 +9,15 @@ Repository to project 3 in the BERN01 computational science course, HT23 at Lund
   - Does the section 'Plot Impurity-based vs. Permutation importance' have performance issues?
   - Automatic plot and table generation: export plots and tables automatically to '../plots/experimentName_plotName.pdf' and '../plots/experimentName_tableName.tex'
   - part 4.6: what do they mean?
+- Question 5: Theo, Anna
+- check output for false precision, statistical relevance (error bars)
 - implementing Plotting of world map: Carmen
-- reading in data: everybody
 - plotting and statistical evaluation of the data: everybody
 - plotting and statistical evaluation of the random tree: Carmen
+
+# Questions
+- Part 4.6
+- what is the 'validation set'?
 
 
 # Commands to install the packages under anaconda
