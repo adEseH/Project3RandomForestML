@@ -21,7 +21,7 @@ Repository to project 3 in the BERN01 computational science course, HT23 at Lund
 
 # Commands to install the packages under anaconda
     > conda install numba scipy scikit-learn matplotlib shap graphviz seaborn statistics IPython
-    > pip install ISLP graphviz
+    > pip install ISLP graphviz geopandas shapely
 
 # Important pages
 For model evaluation: binary classification. Common metrics include accuracy, precision, recall, and confusion matrix.
